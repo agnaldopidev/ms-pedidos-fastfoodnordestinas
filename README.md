@@ -28,10 +28,10 @@ No terminal, digite os comandos a seguir:
 
 ```bash
 # Clonar esse repositório
-$ git clone https://github.com/agnaldopidev/pedidos-ms.git
+$ git clone https://github.com/agnaldopidev/ms-pedidos-fastfoodnordestinas
 
 # Vá para o ropositório
-$ cd pedidos-ms
+$ cd ms-pedidos-fastfoodnordestinas
 
 ```
 
